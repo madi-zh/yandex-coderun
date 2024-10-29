@@ -30,8 +30,7 @@ def main():
 
     items.sort()
     return items[1]
-    
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
