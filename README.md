@@ -10,3 +10,10 @@ Input:
 Output:
 
     stdout is used for output as in the coderun yandex website
+
+
+
+Links:
+1. [median-out-of-three](https://coderun.yandex.ru/problem/median-out-of-three/description)
+2. [cheapest-way](https://coderun.yandex.ru/problem/cheapest-way/description)
+3. [print-the-route-of-the-maximum-cost](https://coderun.yandex.ru/problem/print-the-route-of-the-maximum-cost/description)
